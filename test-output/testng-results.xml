@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81" started-at="2019-09-04T20:27:43Z" finished-at="2019-09-04T20:27:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="81" started-at="2019-09-04T20:27:43Z" finished-at="2019-09-04T20:27:43Z">
+      <class name="com.myfirstMavenproject.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:com.myfirstMavenproject.SeleniumTest@754ba872]" name="browserAutomation" duration-ms="2" started-at="2019-09-04T13:27:43Z" finished-at="2019-09-04T13:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:com.myfirstMavenproject.SeleniumTest@754ba872]" name="elementUI" duration-ms="5" started-at="2019-09-04T13:27:43Z" finished-at="2019-09-04T13:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- com.myfirstMavenproject.SeleniumTest -->
+      <class name="com.myfirstMavenproject.APITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:com.myfirstMavenproject.APITest@146ba0ac]" name="deleteTwitter" duration-ms="2" started-at="2019-09-04T13:27:43Z" finished-at="2019-09-04T13:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:com.myfirstMavenproject.APITest@146ba0ac]" name="postJira" duration-ms="5" started-at="2019-09-04T13:27:43Z" finished-at="2019-09-04T13:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- com.myfirstMavenproject.APITest -->
+      <class name="com.myfirstMavenproject.AppiumTest">
+        <test-method status="PASS" signature="andriod()[pri:0, instance:com.myfirstMavenproject.AppiumTest@77cd7a0]" name="andriod" duration-ms="16" started-at="2019-09-04T13:27:43Z" finished-at="2019-09-04T13:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- andriod -->
+        <test-method status="PASS" signature="ios()[pri:0, instance:com.myfirstMavenproject.AppiumTest@77cd7a0]" name="ios" duration-ms="6" started-at="2019-09-04T13:27:43Z" finished-at="2019-09-04T13:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ios -->
+      </class> <!-- com.myfirstMavenproject.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
